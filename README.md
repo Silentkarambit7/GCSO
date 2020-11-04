@@ -1,1 +1,1 @@
-# GCSO
+#new project template for p5 
