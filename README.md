@@ -1,1 +1,1 @@
-#new project template for p5 
+#took a long time to make after 1000s of errors
